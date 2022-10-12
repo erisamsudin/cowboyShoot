@@ -4,4 +4,10 @@
     <string name="text_you_lose">You Lose !</string>
     <string name="text_fire">FIRE !</string>
     <string name="text_restart">Restart ?</string>
+    <string name="title_onboarding_one">Welcome To the cowboy shoot</string>
+    <string name="desc_on_boarding_one">Desc Nya no one</string>
+    <string name="title_onboarding_two">title onboarding dua</string>
+    <string name="desc_on_boarding_two">desc onborading 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
